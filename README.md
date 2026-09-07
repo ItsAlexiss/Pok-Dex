@@ -53,3 +53,5 @@ Todo esto contra `https://pokeapi.co/api/v2`
 ## Créditos
 
 Datos: [PokeAPI](https://pokeapi.co). Hecho con fines de práctica, sin nada comercial.
+
+### ALEX AMA A LA LESLY
