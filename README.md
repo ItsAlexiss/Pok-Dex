@@ -13,11 +13,6 @@ npm run dev
 
 Después abrís la url que te tira en la terminal, normalmente `http://localhost:3000`.
 
-Para hacer el build final:
-
-```
-npm run build
-```
 
 ## Que trae
 
